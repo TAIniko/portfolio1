@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import page1 from "./components/page1"
 export default {
   name: 'App'
 }
